@@ -1,0 +1,16 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+
+
+
+
+.heading{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 240px 0px;
+    background-color: rgba(229, 84, 115, 0.10);
+  }
