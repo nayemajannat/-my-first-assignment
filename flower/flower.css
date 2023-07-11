@@ -54,10 +54,21 @@
     background-color: rgba(39, 39, 39, 0.05);
     gap: 50px;
   }
-  .box-text{
+  .deal-container{
+    display: flex;
+   align-items: center;
+  justify-content: center;
+  gap: 150px;
+  text-align: center;
+  margin-bottom: 140px;}
+
+  .insta{
     color:black;
-  font-size: 24px;
-  font-weight: 700;
-  text-decoration: underline;
-  margin-top: 32px;
-  }
+  font-size: 40px;
+  font-weight: 500;}
+  .insta-img{
+    display: flex;
+    gap: 30px;
+    height: 300px;
+  width: 250px;
+}
