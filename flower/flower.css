@@ -11,17 +11,18 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 50px 240px 0px;
-    background-color: rgba(229, 84, 115, 0.10);
+    margin: 200px 0px 0px 240px;
+    width:700px ;
+    
   }
   .feature-head{
-    color: #272727;
+    color:black;
     font-size: 40px;
     font-weight: 800;
     margin: 180px 0px 25px;
   }
   .feature-airtecal{
-    color: rgba(27, 22, 22, 0.6);
+    color:black;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 50px;
@@ -44,4 +45,19 @@
     padding: 100px 70px 0px;
   background-color: rgba(167, 33, 98, 0.15);
   border-radius: 300px 300px 0px 0px;
+  }
+  .box{
+    display: flex;
+    margin: 130px auto;
+    justify-content: space-between;
+    padding: 85px 175px;
+    background-color: rgba(39, 39, 39, 0.05);
+    gap: 50px;
+  }
+  .box-text{
+    color:black;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: underline;
+  margin-top: 32px;
   }
