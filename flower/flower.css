@@ -14,3 +14,15 @@
     padding: 50px 240px 0px;
     background-color: rgba(229, 84, 115, 0.10);
   }
+  .feature-head{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 180px 0px 25px;
+  }
+  .feature-airtecal{
+    color: rgba(27, 22, 22, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 50px;
+  }
