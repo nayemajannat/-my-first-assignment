@@ -26,3 +26,22 @@
   font-weight: 400;
   margin-bottom: 50px;
   }
+
+  .img-content{
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+    align-items: flex-end;
+  }
+  .img-text{
+    color: #111111;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: underline;
+  margin-top: 32px;
+  }
+  .img-size{
+    padding: 100px 70px 0px;
+  background-color: rgba(167, 33, 98, 0.15);
+  border-radius: 300px 300px 0px 0px;
+  }
